@@ -11,3 +11,6 @@ Telegram bot that decodes your string
 * [Hex](https://en.m.wikipedia.org/wiki/Hexadecimal)
 * [Binary](https://en.m.wikipedia.org/wiki/Binary_code)
 * Most of utf-8
+
+
+## Support Us! 😉
