@@ -12,5 +12,21 @@ Telegram bot that decodes your string
 * [Binary](https://en.m.wikipedia.org/wiki/Binary_code)
 * Most of utf-8
 
+### Run:
+
+clone Bot
+```bash
+git clone https://github.com/ConfusedCharacter/AutoDecoder; cd AutoDecoder
+```
+install library 
+```bash
+pip3 install telethon 
+```
+run
+```bash
+python3 main.py
+```
+
+**Don't Forget edit Bot config in "main.py"**
 
 ## Support Us! 😉
