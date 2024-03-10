@@ -1,7 +1,7 @@
 # AutoDecoder
 Telegram bot that decodes your string
 
-![alt text](https://raw.githubusercontent.com/ConfusedCharacter/AutoDecoder/main/screenshot/1.png)
+![alt text](https://raw.githubusercontent.com/aDarkDev/AutoDecoder/main/screenshot/1.png)
 
 # Algorithm's:
 
@@ -16,7 +16,7 @@ Telegram bot that decodes your string
 
 clone Bot
 ```bash
-git clone https://github.com/ConfusedCharacter/AutoDecoder; cd AutoDecoder
+git clone https://github.com/aDarkDev/AutoDecoder; cd AutoDecoder
 ```
 install library 
 ```bash
